@@ -1,0 +1,11 @@
+COMO ABRIR
+1. Extraia o ZIP.
+2. Abra a pasta no VS Code.
+3. Abra index.html no navegador ou use a extensão Live Server.
+
+ARQUIVOS
+- index.html: conteúdo do site.
+- style.css: cores, fontes e organização visual.
+- script.js: rolagem suave nos links.
+
+Paleta baseada na imagem enviada: bege, marrom café, off-white, rosa queimado e taupe.
